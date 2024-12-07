@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[![CI](https://github.com/fastify/fastify/actions/workflows/ci.yml/badge.svg)](https://github.com/fastify/fastify/actions/workflows/ci.yml)
+[![CI](https://github.com/fastify/fastify/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/fastify/fastify/actions/workflows/ci.yml)
 [![Package Manager
 CI](https://github.com/fastify/fastify/workflows/package-manager-ci/badge.svg?branch=main)](https://github.com/fastify/fastify/actions/workflows/package-manager-ci.yml)
 [![Web
@@ -29,7 +29,7 @@ downloads](https://img.shields.io/npm/dm/fastify.svg?style=flat)](https://www.np
 Disclosure](https://img.shields.io/badge/Security-Responsible%20Disclosure-yellow.svg)](https://github.com/fastify/fastify/blob/main/SECURITY.md)
 [![Discord](https://img.shields.io/discord/725613461949906985)](https://discord.gg/fastify)
 [![Contribute with Gitpod](https://img.shields.io/badge/Contribute%20with-Gitpod-908a85?logo=gitpod&color=blue)](https://gitpod.io/#https://github.com/fastify/fastify)
-![Open Collective backers and sponsors](https://img.shields.io/opencollective/all/fastify)
+[![Open Collective backers and sponsors](https://img.shields.io/opencollective/all/fastify)](https://github.com/sponsors/fastify#sponsors)
 
 </div>
 
@@ -106,13 +106,8 @@ generate functionality of [Fastify CLI](https://github.com/fastify/fastify-cli).
 
 To install Fastify in an existing project as a dependency:
 
-Install with npm:
 ```sh
 npm i fastify
-```
-Install with yarn:
-```sh
-yarn add fastify
 ```
 
 ### Example
